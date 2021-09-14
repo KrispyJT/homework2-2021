@@ -85,11 +85,13 @@ footer p {
 
 }
 
+
+/* NOTES FOR MYSELF BELOW */
 /* #yellow p
 footer p
  */
- /* padding-bottom: 10px;
- padding-right: 10px; */
+ /* padding-bottom: 10px; ??
+ padding-right: 10px; * ?? /
 
- /* maybe do the important part not on the intial p but on the footer p for the padding and instead of 
+ /* maybe do the important part not on the p but on the footer p for the padding and instead of 
  using the padding right and bottom use the whole padding with padding:top,right,bottom, left and have the !important at the ending as well. */
